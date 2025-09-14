@@ -177,7 +177,7 @@ Markwon puede no renderizar HTML/SVG inline; para máxima compatibilidad en GitH
 
 ### Diagrama A — Quadratic Probing (guardar en `diagrams/quadratic_probing.svg`)
 
-````svg
+```svg
 <!-- Guarda esto en diagrams/quadratic_probing.svg -->
 <svg width="980" height="120" viewBox="0 0 980 120" xmlns="http://www.w3.org/2000/svg">
   <style>
@@ -247,13 +247,13 @@ Markwon puede no renderizar HTML/SVG inline; para máxima compatibilidad en GitH
     </text>
   </g>
 </svg>
-````
+```
 
 ---
 
 ### Diagrama B — Tombstone y reutilización (guardar en `diagrams/tombstone_reuse.svg`)
 
-````svg
+```svg
 <!-- Guarda esto en diagrams/tombstone_reuse.svg -->
 <svg width="980" height="140" viewBox="0 0 980 140" xmlns="http://www.w3.org/2000/svg">
   <style>
@@ -318,7 +318,7 @@ Markwon puede no renderizar HTML/SVG inline; para máxima compatibilidad en GitH
     </text>
   </g>
 </svg>
-````
+```
 
 ---
 
@@ -439,6 +439,4 @@ Trabajo académico para **Programación de estructuras de datos y algoritmos fun
 Implementado y documentado por: **Ángel Landín, Ángeles Araiza, Carlos Andrés Gloria, Mónica Isabel Torres**.
 
 ---
-
-*Archivo generado por ChatGPT — listo para pegar en `README.md`.*
 
