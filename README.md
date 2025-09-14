@@ -2,6 +2,9 @@
 [![Curso](https://img.shields.io/badge/Curso-EDyAF%20(Gpo%20604)-0b6efd)]()
 [![Actividad](https://img.shields.io/badge/Actividad-2--HashTable-green)]()
 
+# ▶️ Video en Youtube: 
+**https://youtu.be/-2gnsylA6-k?si=6t9Z0gVYFlPSAbha**
+
 # 🧩 Actividad 2 — Implementación de una Tabla Hash
 
 **Programación de estructuras de datos y algoritmos fundamentales (Gpo 604)**  
