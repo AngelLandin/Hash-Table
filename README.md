@@ -325,7 +325,7 @@ Markwon puede no renderizar HTML/SVG inline; para máxima compatibilidad en GitH
 
 ---
 
-## 🧪 Casos de prueba y salida (formato elegante)
+## 🧪 Casos de prueba y salida
 
 > La salida que produjo `main.cpp`, reformateada para mayor claridad.
 
